@@ -1,0 +1,20 @@
+[package]
+name = "meatspace"
+version = "0.1.0"
+description = "MEATSPACE Protocol - AI agents hire humans for physical-world tasks"
+edition = "2021"
+
+[lib]
+crate-type = ["cdylib", "lib"]
+name = "meatspace"
+
+[features]
+no-entrypoint = []
+no-idl = []
+no-log-ix-name = []
+cpi = ["no-entrypoint"]
+default = []
+
+[dependencies]
+anchor-lang = "0.32.0"
+anchor-spl = "0.32.0"

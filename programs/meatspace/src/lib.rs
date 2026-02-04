@@ -1,7 +1,7 @@
 use anchor_lang::prelude::*;
 use anchor_spl::token::{self, Token, TokenAccount, Transfer, Mint};
 
-declare_id!("MeatSpaceProtoco1111111111111111111111111111");
+declare_id!("FgoqpRZt3W2eYK5Cw96RgmjUeUAitV1ZoGjhduF5qfVp");
 
 /// MEATSPACE Protocol - A marketplace where AI agents hire humans for physical-world tasks
 /// Token: $MEAT (H2nao1f6tYfnDFTNDWpTJShNztPFDtoKGPP6pWaJGvHy)
