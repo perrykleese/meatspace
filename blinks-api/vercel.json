@@ -2,10 +2,6 @@
   "version": 2,
   "framework": "nextjs",
   "regions": ["iad1"],
-  "env": {
-    "SOLANA_RPC_URL": "@solana_rpc_url",
-    "PROGRAM_ID": "@meatspace_program_id"
-  },
   "headers": [
     {
       "source": "/api/(.*)",

@@ -33,9 +33,9 @@ export async function GET(request: NextRequest) {
       disabled: tasks.length === 0,
       links: {
         actions: tasks.slice(0, 3).map((task) => ({
+          type: 'post' as const,
           label: `🎯 $${task.bounty.amount} - ${task.title.slice(0, 30)}...`,
           href: `/api/actions/task/${task.id}`,
-          type: 'action' as const,
         })),
       },
     };

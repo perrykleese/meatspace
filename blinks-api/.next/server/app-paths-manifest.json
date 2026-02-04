@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/actions.json/route": "app/actions.json/route.js",
+  "/api/actions/feed/route": "app/api/actions/feed/route.js",
+  "/api/actions/task/[taskId]/claim/route": "app/api/actions/task/[taskId]/claim/route.js",
+  "/api/actions/task/[taskId]/route": "app/api/actions/task/[taskId]/route.js",
+  "/page": "app/page.js",
+  "/api/og/task/[taskId]/route": "app/api/og/task/[taskId]/route.js"
+}
