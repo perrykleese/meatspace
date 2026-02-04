@@ -1,0 +1,5 @@
+# Meatspace cPanel Proxy Rules
+# Redirect all requests to Node.js app
+
+RewriteEngine On
+RewriteRule ^(.*)$ http://localhost:%{ENV:PORT}/$1 [P,L]
