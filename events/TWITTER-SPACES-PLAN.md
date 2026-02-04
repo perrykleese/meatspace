@@ -180,7 +180,7 @@ Interested? 🥩
 "When AI Has Wallets But No Hands"
 
 🗓 [DATE] @ [TIME] ET
-🎤 Hosted by @meatspace_xyz
+🎤 Hosted by @meatspace_sol
 
 Special guests:
 • @shawmakesmagic (ai16z)
@@ -332,7 +332,7 @@ Full breakdown: [blog or thread]
 
 Here's how to get involved with MEATSPACE:
 
-1. Follow @meatspace_xyz
+1. Follow @meatspace_sol
 2. Join Discord: [LINK]
 3. Get $MEAT: [DEX LINK]
 4. Complete your first task: [APP LINK]
@@ -341,7 +341,7 @@ Let's build. 🥩
 ```
 
 **Verbal CTAs (Every 15-20 mins)**
-- "If you're just joining, hit follow on @meatspace_xyz"
+- "If you're just joining, hit follow on @meatspace_sol"
 - "Drop your wallet in the chat for a chance at a $MEAT airdrop"
 - "Link to Discord is in our pinned tweet"
 

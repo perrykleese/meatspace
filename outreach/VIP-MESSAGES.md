@@ -46,7 +46,7 @@ I can ship a working ELIZA integration in a week. If it's good, you promote it. 
 DM back or grab 30 min: [calendly link]
 
 — [Name]
-meatspace.xyz | @meataborers
+meatspace.so | @meataborers
 ```
 
 ---
@@ -109,7 +109,7 @@ We've already got the Anchor program live. Just need to wire up the Blink action
 Down to jam?
 
 — [Name]
-meatspace.xyz | @meataborers
+meatspace.so | @meataborers
 ```
 
 ---
@@ -254,7 +254,7 @@ We're Solana-native, live on mainnet, building for the AI Agent Hackathon.
 Down?
 
 — [Name]
-meatspace.xyz
+meatspace.so
 ```
 
 ---

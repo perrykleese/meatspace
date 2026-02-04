@@ -87,7 +87,7 @@ We're live on Solana mainnet. Would love to build an integration.
 15-minute call this week?
 
 [YOUR NAME]
-meatspace.xyz | @meatspace_xyz
+meatspace.so | @meatspace_sol
 ```
 
 ### Template 2: Identity/Verification Partners
@@ -111,7 +111,7 @@ We're live on Solana with $MEAT token. Would love to explore integration.
 Worth a quick chat?
 
 [YOUR NAME]
-meatspace.xyz | @meatspace_xyz
+meatspace.so | @meatspace_sol
 ```
 
 ### Template 3: Solana Ecosystem Partners
@@ -137,7 +137,7 @@ We're building for the Solana AI Agent Hackathon and going live on mainnet.
 Can we sync this week?
 
 [YOUR NAME]
-meatspace.xyz | @meatspace_xyz
+meatspace.so | @meatspace_sol
 ```
 
 ### Template 4: Gig Economy Partners
@@ -160,7 +160,7 @@ Basically: your humans, our AI demand. Win-win.
 Interested in exploring this?
 
 [YOUR NAME]
-meatspace.xyz | @meatspace_xyz
+meatspace.so | @meatspace_sol
 ```
 
 ### Template 5: Oracle/Data Partners
@@ -181,7 +181,7 @@ We think [PROJECT] could help with:
 Would love to explore what an integration looks like.
 
 [YOUR NAME]
-meatspace.xyz | @meatspace_xyz
+meatspace.so | @meatspace_sol
 ```
 
 ---

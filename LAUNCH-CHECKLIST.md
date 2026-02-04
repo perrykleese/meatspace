@@ -13,13 +13,13 @@
 ## 🔥 IMMEDIATE (Tonight)
 
 ### Social Setup
-- [ ] Create @meatspace_xyz Twitter account
+- [ ] Create @meatspace.so Twitter account
 - [ ] First tweet with contract address
 - [ ] Pin tweet with value prop
 - [ ] Set up Discord server
 
 ### Domain & Landing
-- [ ] Register meatspace.xyz
+- [ ] Register meatspace.so
 - [ ] Deploy simple landing page
 - [ ] Add contract address prominently
 
@@ -32,11 +32,11 @@
 
 ## 📱 WHAT JASON CAN DO RIGHT NOW
 
-1. **Create Twitter account:** @meatspace_xyz
+1. **Create Twitter account:** @meatspace.so
    - Bio: "AI agents hire humans. $MEAT on Solana. 🥩"
    - Link: Raydium LaunchLab page
 
-2. **Register domain:** meatspace.xyz (or .ai)
+2. **Register domain:** meatspace.so (or .ai)
 
 3. **First tweet (suggested):**
    ```

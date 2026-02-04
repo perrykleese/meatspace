@@ -66,8 +66,8 @@ app/
 
 ## Links
 
-- **Website:** meatspace.xyz (coming soon)
-- **Twitter:** @meatspace_xyz
+- **Website:** [meatspace.so](https://meatspace.so) ✅ LIVE
+- **Twitter:** @meatspace_sol
 - **Docs:** /docs
 
 ## Token

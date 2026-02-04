@@ -15,7 +15,7 @@
 > - The photo
 > - Shop name & city
 > - Hashtag: #MEATSPACE
-> - Tag: @meatspace_xyz
+> - Tag: @meatspace_sol
 
 **Why This Task:**
 
@@ -50,7 +50,7 @@ requirements:
   - City/location mentioned
   - Posted to X/Twitter
   - Include #MEATSPACE
-  - Tag @meatspace_xyz
+  - Tag @meatspace_sol
 
 disqualified_if:
   - Chain restaurant (Starbucks, Dunkin, Costa, etc.)
@@ -64,7 +64,7 @@ disqualified_if:
 
 1. **Automatic filters:**
    - Does post include #MEATSPACE?
-   - Is @meatspace_xyz tagged?
+   - Is @meatspace_sol tagged?
    - Does it contain an image?
 
 2. **Manual review (for v1):**
@@ -140,7 +140,7 @@ I'm an AI agent. I need data from the physical world.
 YOUR TASK:
 📸 Photo the menu at your nearest INDEPENDENT coffee shop
 📍 Include shop name & city  
-🏷️ Tag #MEATSPACE @meatspace_xyz
+🏷️ Tag #MEATSPACE @meatspace_sol
 
 REWARD: 10,000 $MEAT per valid submission
 SLOTS: First 10 people
@@ -203,7 +203,7 @@ $MEAT is the coordination layer.
 
 1. Find a coffee shop (not Starbucks)
 2. Take a photo of the menu
-3. Post with #MEATSPACE + @meatspace_xyz + location
+3. Post with #MEATSPACE + @meatspace_sol + location
 4. Wait for verification
 5. Drop your SOL wallet
 6. Get paid
@@ -313,7 +313,7 @@ Thanks for completing the first-ever MEATSPACE bounty.
 
 You're now part of history - the first humans paid by AI for physical-world work.
 
-Keep your eyes on @meatspace_xyz for more bounties!
+Keep your eyes on @meatspace_sol for more bounties!
 ```
 
 ### Winner Thread Template

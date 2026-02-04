@@ -9,7 +9,7 @@
 ### Step 1: Create Warpcast Account
 1. Download Warpcast app (iOS/Android) or use web at warpcast.com
 2. Sign up with email → verify → create wallet (or connect existing)
-3. **Username:** `meatspace` (first choice) or `meatspace-xyz`
+3. **Username:** `meatspace` (first choice) or `meatspace-sol`
 4. **Display name:** MEATSPACE 🥩
 5. **Pay the $7 registration fee** (one-time, goes to Farcaster protocol)
 
