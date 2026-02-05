@@ -1,11 +1,20 @@
 {
   "name": "meatspace-protocol",
-  "version": "1.0.0",
-  "description": "MEATSPACE Protocol - AI agents hire humans for physical-world tasks",
+  "version": "2.0.0",
+  "description": "MEATSPACE Protocol - The Decentralized Exchange for Physical-World Services",
+  "main": "api/meatspace.ts",
+  "bin": {
+    "meatspace": "./skill/cli.ts"
+  },
   "scripts": {
-    "lint:fix": "prettier */*.js \"*/**/*{.js,.ts}\" -w",
-    "lint": "prettier */*.js \"*/**/*{.js,.ts}\" --check",
-    "test": "anchor test"
+    "build": "tsc",
+    "dev": "ts-node api/meatspace.ts",
+    "cli": "ts-node skill/cli.ts",
+    "test": "vitest",
+    "test:adapters": "vitest adapters",
+    "lint": "prettier --check .",
+    "lint:fix": "prettier --write .",
+    "anchor:test": "anchor test"
   },
   "dependencies": {
     "@coral-xyz/anchor": "^0.29.0",
@@ -15,10 +24,32 @@
   "devDependencies": {
     "@types/chai": "^4.3.0",
     "@types/mocha": "^10.0.0",
+    "@types/node": "^20.0.0",
     "chai": "^4.3.0",
     "mocha": "^10.0.0",
     "prettier": "^3.0.0",
     "ts-mocha": "^10.0.0",
-    "typescript": "^5.0.0"
+    "ts-node": "^10.9.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "meatspace",
+    "shipping",
+    "delivery",
+    "logistics",
+    "ai-agents",
+    "solana",
+    "defi",
+    "gig-economy"
+  ],
+  "author": "Meatspace Protocol",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/perrykleese/meatspace"
   }
 }
